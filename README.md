@@ -24,7 +24,7 @@ Open this repository on GitHub.
 
 Click the **Fork** button in the top-right corner.
 
-This creates your own copy of the repository under your GitHub account.
+This creates your own copy of the repository under your GitHub.
 
 You can make changes to your fork without affecting the original repository.
 
@@ -171,7 +171,7 @@ A contribution can simply be:
 - Adding a useful resource
 - Improving accessibility or formatting
 
-The goal of your first contribution is not to impress anyone.
+The goal of your first contribution is not to impress anyone but to get the basic idea.
 
 **The goal is to understand how contributing works.**
 
